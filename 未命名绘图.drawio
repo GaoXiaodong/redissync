@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="-4LcA-HKY_PD5FNr4DD3">
-    <mxGraphModel dx="9896" dy="2780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="9637" dy="2656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;eks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;限制云api来源的访问&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6249" y="2005" width="446" height="182" as="geometry" />
+        </mxCell>
         <mxCell id="1syi5o8yMm9c0C1K8n7t-761" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-3581" y="-534" width="733" height="492" as="geometry" />
         </mxCell>
@@ -2231,7 +2234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MGevzpVtrlvsxXVkY5Ex-56" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="-6349" y="442" width="80" height="60" as="geometry" />
+          <mxGeometry x="-6128" y="442.25" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGevzpVtrlvsxXVkY5Ex-60" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#00FFFF;" parent="1" vertex="1">
           <mxGeometry x="-7256" y="423" width="20" height="20" as="geometry" />
@@ -2316,6 +2319,42 @@
         </mxCell>
         <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;7月20日&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6008" y="456.25" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8sJo7pHDB2K9Ca8Ofd-11" target="Ep8sJo7pHDB2K9Ca8Ofd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ep8sJo7pHDB2K9Ca8Ofd-11" target="Ep8sJo7pHDB2K9Ca8Ofd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;xxxxxx&amp;nbsp; &amp;nbsp;云api&amp;nbsp; &amp;nbsp;不通&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ep8sJo7pHDB2K9Ca8Ofd-17">
+          <mxGeometry x="-0.582" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8sJo7pHDB2K9Ca8Ofd-11" target="Ep8sJo7pHDB2K9Ca8Ofd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-11" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6750" y="1709" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8sJo7pHDB2K9Ca8Ofd-12" target="Ep8sJo7pHDB2K9Ca8Ofd-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5910.444444444444" y="1739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;裸调&amp;nbsp; 以用户名义购买&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ep8sJo7pHDB2K9Ca8Ofd-14">
+          <mxGeometry x="-0.0577" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-12" value="dlc&lt;div&gt;emr&lt;/div&gt;&lt;div&gt;etcd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6401" y="1709" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-21" value="dlc&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;镜像、权限&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6189" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8sJo7pHDB2K9Ca8Ofd-22" value="etcd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5990" y="2042" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
